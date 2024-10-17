@@ -1,0 +1,10 @@
+# ninja log v6
+3	54	7508734001346594	D:/work/qt/TrustDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	1d5fa06b3e2ee7c9
+55	485	7508734005829828	TrustDesktop_autogen/timestamp	c59700c7a497591c
+55	485	7508734005829828	TrustDesktop_autogen/mocs_compilation.cpp	c59700c7a497591c
+55	485	7508734005829828	D:/work/qt/TrustDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TrustDesktop_autogen/timestamp	c59700c7a497591c
+55	485	7508734005829828	D:/work/qt/TrustDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TrustDesktop_autogen/mocs_compilation.cpp	c59700c7a497591c
+490	2264	7508734006237790	CMakeFiles/TrustDesktop.dir/TrustDesktop_autogen/mocs_compilation.cpp.obj	60168a601cbc2393
+493	2393	7508734006237790	CMakeFiles/TrustDesktop.dir/mainwindow.cpp.obj	f4ec5a6aeb9e83f9
+492	2420	7508734006237790	CMakeFiles/TrustDesktop.dir/main.cpp.obj	241f1a3cf5aafd0
+2420	2575	7508734025551164	TrustDesktop.exe	aa623ff84f62b9fe

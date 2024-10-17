@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9efc59cee5b25313b945.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TrustDesktop",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TrustDesktop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TrustDesktop-Debug-a02ce78a8deb0924d711.json",
+					"name" : "TrustDesktop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TrustDesktop_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TrustDesktop_autogen-Debug-6467f0bad70a3ca9f25e.json",
+					"name" : "TrustDesktop_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TrustDesktop_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TrustDesktop_autogen_timestamp_deps-Debug-18cf8a9098a6e6250808.json",
+					"name" : "TrustDesktop_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/work/qt/TrustDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "D:/work/qt/TrustDesktop"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
