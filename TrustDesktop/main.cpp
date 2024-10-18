@@ -4,6 +4,9 @@
 #include <QLocale>
 #include <QTranslator>
 #include <qpushbutton.h>
+#include <qimage.h>
+#include <QLabel>
+#include <QPixmap>
 
 int main(int argc, char *argv[])
 {
@@ -19,9 +22,6 @@ int main(int argc, char *argv[])
         }
     }
     MainWindow w;
-
-    QImage *image = new QImage("./images/");
-
 
     w.show();
 
