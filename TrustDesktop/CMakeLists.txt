@@ -26,6 +26,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(TrustDesktop
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        images/001.jpg
 
     )
 # Define target properties for Android with Qt 6 as:
